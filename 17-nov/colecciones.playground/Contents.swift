@@ -8,8 +8,6 @@ import UIKit
 //Colecciones (conjuntos)
 //Colecciones (tuplas)
 
-import UIKit
-
 //arreglos
 
 var name: String = "Ricardo" //referencia
