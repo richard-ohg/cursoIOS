@@ -2,7 +2,6 @@
 
 import UIKit
 
-//: Playground - noun: a place where people can play
 //Interpolacion de Cadenas
 //Colleciones (array)
 //Colecciones (diccionarios)
